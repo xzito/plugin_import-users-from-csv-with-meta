@@ -1,0 +1,15 @@
+{
+  "name": "xzito/plugin_import-users-from-csv-with-meta",
+  "version" : "0.1.0",
+  "description": "CSV Import plugin saved for future need scenarios.",
+  "type": "wordpress-plugin",
+  "authors": [
+    {
+      "name": "Nicholas Mole",
+      "email": "nmole065@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.1"
+  }
+}
